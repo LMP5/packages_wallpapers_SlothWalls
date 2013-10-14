@@ -1,4 +1,4 @@
-package com.koushikdutta.urlimageviewhelper;
+package com.slothylove.urlimageviewhelper;
 
 import java.lang.ref.SoftReference;
 import java.util.Hashtable;

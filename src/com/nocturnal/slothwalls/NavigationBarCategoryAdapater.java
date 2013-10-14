@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.nocturnal.sloth;
 
 import android.content.Context;
 import android.database.DataSetObserver;

@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.nocturnal.sloth;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -24,8 +24,8 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.koushikdutta.urlimageviewhelper.UrlImageViewCallback;
-import com.koushikdutta.urlimageviewhelper.UrlImageViewHelper;
+import com.slothylove.urlimageviewhelper.UrlImageViewCallback;
+import com.slothylove.urlimageviewhelper.UrlImageViewHelper;
 
 import java.io.BufferedInputStream;
 import java.io.File;

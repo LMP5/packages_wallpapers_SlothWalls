@@ -1,5 +1,5 @@
 
-package com.aokp.swagpapers;
+package com.nocturnal.sloth;
 
 public class Wallpaper {
 
