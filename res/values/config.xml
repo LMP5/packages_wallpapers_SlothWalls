@@ -8,6 +8,6 @@
     <string name="config_wallpaper_download_loc"></string>
 
     <!-- url to the wallpaper manifest -->
-    <string name="config_wallpaper_manifest_url">https://raw.github.com/SofaKingAndroid/packages_wallpapers_slothwalls_v1/ska43/assets/wallpaper_manifest.xml</string>
+    <string name="config_wallpaper_manifest_url">http://walls.slothroms.com/xml/slothy.xml</string>
 
 </resources>
