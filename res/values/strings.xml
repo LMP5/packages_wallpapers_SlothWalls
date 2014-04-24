@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">SlothWalls</string>
-    <string name="title_activity_wallpaper">Sloth Papers</string>
+    <string name="app_name">Nocturnal Walls</string>
+    <string name="title_activity_wallpaper">Nocturnal Walls</string>
     <string name="back">Previous</string>
     <string name="next">Next</string>
     <string name="page">Page: </string>
